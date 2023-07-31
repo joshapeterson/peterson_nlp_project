@@ -1,1 +1,1 @@
-# peterson_nlp_project
+# Text Mining and Analysis Example
